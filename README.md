@@ -3,6 +3,9 @@ Simple script that changes your wallpaper to bings daily image.
 Only works on ubuntu.
 
 ### Setup
+```
+pip install -r requirements.txt
+```
 Add the script to your crontab.
 ```
 0 0 * * * /full_path/main.py
