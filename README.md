@@ -1,5 +1,6 @@
-# Change your wall paper
-Simple script that will change your background.
+# Auto updates your desktop wallpaper daily
+Simple script that changes your wallpaper to bings daily image.
+Only works on ubuntu.
 
 ### Setup
 Add the script to your crontab.
